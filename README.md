@@ -1,0 +1,2 @@
+# factorymanage
+springboot基于vue的工厂车间管理系统的设计
